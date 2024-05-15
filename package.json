@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/pudon/prettier-config#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   }
 }
