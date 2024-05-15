@@ -1,0 +1,26 @@
+{
+  "name": "@pudon/prettier-config",
+  "version": "1.0.0",
+  "description": "pudon's prettier config",
+  "main": "index.js",
+  "scripts": {
+    "release": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pudon/prettier-config.git"
+  },
+  "keywords": [
+    "pudon",
+    "prettier-config"
+  ],
+  "author": "pudon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pudon/prettier-config/issues"
+  },
+  "homepage": "https://github.com/pudon/prettier-config#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
